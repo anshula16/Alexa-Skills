@@ -1,0 +1,31 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "choco factory",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "whatischocolate",
+                    "slots": [],
+                    "samples": [
+                        "tell me facts about chocolate",
+                        "facts about chocolate",
+                        "chocolate facts"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
