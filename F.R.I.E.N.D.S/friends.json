@@ -1,0 +1,41 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "friends show",
+            "intents": [
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "friendsshow",
+                    "slots": [],
+                    "samples": [
+                        "tell me facts about friends",
+                        "tell me facts about friends show",
+                        "facts about friends show",
+                        "friends",
+                        "friends show"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
